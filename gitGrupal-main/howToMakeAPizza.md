@@ -1,5 +1,4 @@
-Ingredientes:
-para la masa:
+Ingredientes para la masa:
 Harina
 Levadura
 Sal
